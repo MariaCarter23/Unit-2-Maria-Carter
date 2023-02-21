@@ -1,0 +1,68 @@
+/*Add the code for Code Along Part Two below */
+
+
+
+
+/*Add the code for Code It Solo Part Two below */
+
+
+
+
+.sectionStyle {
+    color: #FCC5C9;
+    text-align: center;
+    background-color: #FCC5C9;
+}
+
+
+
+
+
+
+
+img {
+    width: 490px;
+    display: block;
+    margin-left: 9px;
+    margin-right: auto;
+    padding: 23px;
+    border:10px;
+}
+
+p {
+    font-size: 30px;
+}
+
+button {
+    display: block;
+    margin-left: 8px;
+    margin-right: auto;
+  
+}
+div{ 
+    font-size:34px;
+}
+
+.p{
+    font-size: 12px;
+}
+
+.menu1{
+    display:flex;
+    justify-content: space-around;
+    background-color: #FCC5C9;
+}
+
+.text{ 
+    color: #FCC5C9;
+}
+
+body {
+    background-color: #003F52;
+    color: #FCC5C9;
+}
+
+.meun1{
+    display:flex;
+     justify-content: space-around;
+}
